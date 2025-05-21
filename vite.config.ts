@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/Interactive-Design/',
+  base: '/Interaction-Design/'
 });
